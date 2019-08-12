@@ -1,6 +1,6 @@
 # mchatapp
 
-A new Flutter project.
+Material design of ChatApp. it's is flutter project and use dart language.
 
 ## Getting Started
 
